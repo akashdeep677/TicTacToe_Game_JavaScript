@@ -1,0 +1,21 @@
+.button{
+width:100px;
+height:100px;
+background-color:white;
+vertical-align: top;
+font-size: 40px;
+color:black;
+}
+
+.button:hover{
+  background-color:#ff1125;
+}
+
+#sr{
+width:300px;
+height:50px;
+background-color:green;
+vertical-align: top;
+font-size: 40px;
+color:white
+}
